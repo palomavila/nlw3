@@ -12,10 +12,10 @@ Thanks @RocketSeat 🚀
 
 O projeto foi desenvolvido utilizando: 
 
-*Node.js
-*Handlebars
-*Express
-*SQLite
+* Node.js
+* Handlebars
+* Express
+* SQLite
 
 ## 👩🏽‍💻Licença
 

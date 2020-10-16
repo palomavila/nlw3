@@ -1,48 +1,58 @@
-@keyframes up {
-  from {
-    opacity: 0;
-    transform: translateY(16px);
-  }
+.primary-button {
+  margin-top: 6.4rem;
 
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  width: 100%;
+  height: 6.4rem;
+  border: 0;
+
+  cursor: pointer;
+
+  background: #3cdc8c;
+
+  border-radius: 2rem;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: background-color 0.2s;
+
+  text-decoration: none;
 }
 
-@keyframes right {
-  from {
-    transform: translateX(-100%);
-  } 
-
-  to {
-    transform: translateX(0);
-  }
+.primary-button:hover {
+  background: #36cf82;
 }
 
-@keyframes appear {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
+.primary-button img {
+  margin-right: 1.6rem;
 }
 
-.animate-up {
-  animation-name: up;
-  animation-duration: 300ms;
-  animation-fill-mode: backwards;
+.button-select {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
-.animate-right {
-  animation-name: right;
-  animation-duration: 300ms;
+.button-select button {
+  height: 6.4rem;
+  background: #f5f8fa;
+  border: 1px solid #d3e2e5;
+  color: #5c8599;
+
+  cursor: pointer;
 }
 
-.animate-appear {
-  animation-name: appear;
-  animation-duration: 300ms;
-  animation-fill-mode: backwards;
+.button-select button.active {
+  background: #edfff6;
+  border: 1px solid #a1e9c5;
+  color: #37c77f;
+}
+
+.button-select button:first-child {
+  border-radius: 2rem 0 0 2rem;
+}
+
+.button-select button:last-child {
+  border-radius: 0 2rem 2rem 0;
 }

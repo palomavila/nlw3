@@ -8,14 +8,14 @@ Database.then(async (db) => {
     name: "Lar dos meninos",
     about:
       "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social",
-    whatsapp: "55999992222",
+    whatsapp: "+55(11)98888-8888",
     images: [
       "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     ].toString(),
     instructions:
       "Venha como se sentir a vontade e traga muito amor e paciência para dar",
-    opening_hours: "Horário de visitas Das 18h até 8h",
+    opening_hours: "Horário de visitas Das 08h até 18h",
     open_on_weekends: "0",
   });
 

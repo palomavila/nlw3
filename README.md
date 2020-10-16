@@ -16,8 +16,8 @@ O projeto foi desenvolvido utilizando:
 - [Javascript]
 
 
-## 🤍Licença
+## 👩🏽‍💻Licença
 
 Esse projeto está sob a licença MIT.
 
-<p align="center">Made by Paloma</p>
+<p align="center">Made by Paloma ➰</p>

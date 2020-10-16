@@ -6,7 +6,7 @@ O Happy é um projeto que facilita a visualização de lares que cuidam de crian
 
 Desenvolvimento na Next Level Week 3 durante os dias 12 a 18 de Outubro de 2020.
 
-Thanks @RockSeat 🚀
+Thanks @RocketSeat 🚀
 
 ## 👩🏽‍💻Tecnologias
 

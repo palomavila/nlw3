@@ -1,3 +1,23 @@
-<b>Happy</b> 😃
+<h1> Happy</h1>
 
-<h5> Este é um projeto desenvolvido na Next Level Week durante os dias 12 a 18 de Outubro de 2020.</h5> 🚀
+## 👩🏽‍💻Projeto
+
+O Happy é um projeto que facilita a visualização de lares que cuidam de crianças que precisam de carinho e atenção.
+
+Desenvolvimento na Next Level Week 3 durante os dias 12 a 18 de Outubro de 2020.
+
+Thanks @RockSeat 🚀
+
+## 👩🏽‍💻Tecnologias
+
+O projeto foi desenvolvido utilizando: 
+
+- [Node.js]
+- [Javascript]
+
+
+## 🤍Licença
+
+Esse projeto está sob a licença MIT.
+
+<p align="center">Made by Paloma</p>

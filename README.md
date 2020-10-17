@@ -11,6 +11,12 @@ Desenvolvimento na Next Level Week 3 durante os dias 12 a 18 de Outubro de 2020.
 
 Thanks @RocketSeat 🚀
 
+## 👩🏽‍💻Screenshots 
+
+<img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa" title="Capa" />
+
+<img src="https://github.com/palomavila/nlw3/blob/main/public/images/mapa.jpg" alt"Mapa" title="Mapa" />
+
 ## 👩🏽‍💻Tecnologias
 
 O projeto foi desenvolvido utilizando: 

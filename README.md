@@ -13,9 +13,8 @@ Thanks @RocketSeat 🚀
 
 ## 👩🏽‍💻Screenshots 
 
-<img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa" title="Capa" />
-
-<img src="https://github.com/palomavila/nlw3/blob/main/public/images/mapa.jpg" alt"Mapa" title="Mapa" />
+<div align="center">
+  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa" title="Capa" />
 
 ## 👩🏽‍💻Tecnologias
 

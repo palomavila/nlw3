@@ -16,6 +16,9 @@ Thanks @RocketSeat 🚀
 <div align="center">
   <img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa" title="Capa" />
 
+<div align="center">
+  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mapa.jpg" alt"Mapa" title="Mapa" />
+
 ## 👩🏽‍💻Tecnologias
 
 O projeto foi desenvolvido utilizando: 

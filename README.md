@@ -1,5 +1,8 @@
 <h1> Happy: Trilha Discovery</h1>
 
+<div align="center">
+  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/logo.svg" alt"Happy" title="Happy" />
+
 ## 👩🏽‍💻Projeto
 
 O Happy é um projeto que facilita a visualização de lares que cuidam de crianças que precisam de carinho e atenção.

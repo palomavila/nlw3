@@ -22,7 +22,7 @@ Database.then(async (db) => {
   const selectedOrphanages = await db.all("SELECT * FROM orphanages");
   console.log(selectedOrphanages);
 
-  const orphanages = await db.all('SELECT * FROM orphanages WHERE id = "1"');
-  console.log(orphanages);
+  const orphanage = await db.all('SELECT * FROM orphanages WHERE id = "1"');
+  console.log(orphanage);
 
 });

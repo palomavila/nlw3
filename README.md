@@ -1,4 +1,4 @@
-<h1> Happy</h1>
+<h1> Happy: Trilha Discovery</h1>
 
 ## 👩🏽‍💻Projeto
 

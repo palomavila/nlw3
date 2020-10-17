@@ -13,11 +13,17 @@ Thanks @RocketSeat 🚀
 
 ## 👩🏽‍💻Screenshots 
 
+<b>Versão Desktop</b>
 <div align="center">
-  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa" title="Capa" />
+  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa desktop" title="Capa desktop" />
 
 <div align="center">
-  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mapa.jpg" alt"Mapa" title="Mapa" />
+  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mapa.jpg" alt"Mapa desktop" title="Mapa desktop" />
+
+<b>Versão Mobile</b>
+
+<div align="center">
+  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mobile.jpg" alt"Mobile" title="Mobile" />
 
 ## 👩🏽‍💻Tecnologias
 

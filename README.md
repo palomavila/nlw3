@@ -20,6 +20,8 @@ Thanks @RocketSeat 🚀
 <div align="center">
   <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mapa.jpg" alt"Mapa desktop" title="Mapa desktop" />
 
+
+
 <b>Versão Mobile</b>
 
 <div align="center">

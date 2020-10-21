@@ -1,7 +1,6 @@
 <h1> Happy: Trilha Discovery</h1>
 
-<div align="center">
-  <img src="https://github.com/palomavila/nlw3/blob/main/public/images/happy.jpg" alt"Happy" title="Happy" />
+<img src="https://github.com/palomavila/nlw3/blob/main/public/images/happy.jpg" alt"Happy" title="Happy" />
 
 ## 👩🏽‍💻Projeto
 

@@ -27,6 +27,9 @@ Thanks @RocketSeat 🚀
 <div align="center">
   <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mobile.jpg" alt"Mobile" title="Mobile" />
 
+
+<div align="left">
+
 ## 👩🏽‍💻Tecnologias
 
 O projeto foi desenvolvido utilizando: 

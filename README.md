@@ -4,6 +4,7 @@
 <img src="https://github.com/palomavila/nlw3/blob/main/public/images/happy.jpg" alt"Happy" title="Happy" />
 
 <div align="left">
+  
 ## 👩🏽‍💻Projeto
 
 O Happy é um projeto que facilita a visualização de lares que cuidam de crianças que precisam de carinho e atenção.
@@ -14,8 +15,8 @@ Thanks @RocketSeat 🚀
 
 ## 👩🏽‍💻Screenshots 
 
-<b>Versão Desktop</b>
 <div align="center">
+<b>Versão Desktop</b>
   <img src="https://github.com/palomavila/nlw3/blob/main/public/images/capa.jpg" alt"Capa desktop" title="Capa desktop" />
 
 <div align="center">

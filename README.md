@@ -1,9 +1,10 @@
+<div align="center">
 <h1> Happy: Trilha Discovery</h1>
 
-<div align="center">
+
 <img src="https://github.com/palomavila/nlw3/blob/main/public/images/happy.jpg" alt"Happy" title="Happy" />
 
-<div align="left">
+
 ## 👩🏽‍💻Projeto
 
 O Happy é um projeto que facilita a visualização de lares que cuidam de crianças que precisam de carinho e atenção.
@@ -31,7 +32,7 @@ Thanks @RocketSeat 🚀
   <img src="https://github.com/palomavila/nlw3/blob/main/public/images/mobile.jpg" alt"Mobile" title="Mobile" />
 
 
-<div align="left">
+<div align="center">
 
 ## 👩🏽‍💻Tecnologias
 
